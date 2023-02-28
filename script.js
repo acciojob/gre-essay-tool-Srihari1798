@@ -1,6 +1,6 @@
-//your code here
-<textarea id="evaluatedText" oninput="countWords()"></textarea>
-<h3 id="wordCount">0</h3>
+//your code here 
+
+
 
 <script>
 function countWords() {
